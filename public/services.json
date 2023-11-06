@@ -1,0 +1,57 @@
+[
+    {
+      "roomType": "Standard Room",
+      "description": "Comfortable room with basic amenities",
+      "pricePerNight": 100,
+      "roomSize": "250 sq. ft",
+      "availability": "Available",
+      "roomImage": "https://i.ibb.co/gyKy9bc/gallery2.jpg",
+      "specialOffers": "10% off for stays longer than 3 nights"
+    },
+    {
+      "roomType": "Deluxe Room",
+      "description": "Spacious room with a city view",
+      "pricePerNight": 150,
+      "roomSize": "350 sq. ft",
+      "availability": "Available",
+      "roomImage": "https://i.ibb.co/FKwxnK7/pexels-quark-studio-2507007-600x360.jpg",
+      "specialOffers": "Free breakfast included"
+    },
+    {
+      "roomType": "Suite",
+      "description": "Luxurious suite with a separate living area",
+      "pricePerNight": 250,
+      "roomSize": "500 sq. ft",
+      "availability": "Available",
+      "roomImage": "https://i.ibb.co/bQR4x3c/ro6.jpg",
+      "specialOffers": "20% off for advance booking"
+    },
+    {
+      "roomType": "Family Room",
+      "description": "Spacious room with multiple beds for families",
+      "pricePerNight": 180,
+      "roomSize": "400 sq. ft",
+      "availability": "Available",
+      "roomImage": "https://i.ibb.co/MVD4k3C/gallery-9-970x450.jpg",
+      "specialOffers": "Children stay free with paying adults"
+    },
+    {
+      "roomType": "Ocean View Room",
+      "description": "Room with a stunning ocean view balcony",
+      "pricePerNight": 200,
+      "roomSize": "300 sq. ft",
+      "availability": "Available",
+      "roomImage": "https://i.ibb.co/bQR4x3c/ro6.jpg",
+      "specialOffers": "Complimentary bottle of wine"
+    },
+    {
+      "roomType": "Executive Suite",
+      "description": "Top-tier suite with a private lounge",
+      "pricePerNight": 350,
+      "roomSize": "600 sq. ft",
+      "availability": "Available",
+      "roomImage": "https://i.ibb.co/4tmBwY2/pexels-vecislavas-popa-1743231-600x360.jpg",
+      "specialOffers": "Access to exclusive executive lounge"
+    }
+  ]
+  
